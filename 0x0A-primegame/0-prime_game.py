@@ -6,7 +6,6 @@ removing that number and its multiples from the set. The player that cannot
 make a move loses the game.
 '''
 
-
 def get_primes(nums):
     '''
     Use Sieve of Eratosthenes to get primes
